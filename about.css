@@ -17,26 +17,28 @@ body{
     .row{
       margin-right: 0 !important;
     }
-    .img{
-      padding-right: 20%;
-     max-width: 18%; 
-     margin-top: 208px;    
-     position: fixed; 
-     float: left;
-  }
+
   .pl-3 {
     padding-left: 3rem !important;
   }
 
   
-h1{color:  rgb(67,137,165);
-  text-align: center;
+h2{padding-top: 0%;
+  color:  rgb(67,137,165);
+ text-align: right;
   font-size: 200%;
- 
+  margin-right: 15%;
  
 }
-h3{color: #000;
-font-size: 75%;}
+ 
+.img{
+  padding-right: 20%;
+ max-width: 18%; 
+ margin-top: 208px;    
+ position: fixed; 
+ float: left;
+}
+p{text-align: justify;}
  
   
     
