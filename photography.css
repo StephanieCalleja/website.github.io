@@ -1,0 +1,82 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 25px;
+    }
+  
+  
+    .navbar-light .navbar-brand {
+        color: rgb(67, 137, 165);
+        font-family: 'Ibarra Real Nova', serif;
+        font-size: x-large;
+      }
+      .navbar-light .navbar-nav .nav-link { 
+        color: rgb(67,137,165);
+        font-family: 'Ibarra Real Nova', serif;
+        font-size: large;
+      }
+      .conteiner{
+        margin-left: 50%;
+        text-align: center;
+   }
+   
+   .footer {
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: x-large;
+    position: fixed;
+    left: 0;
+    bottom: 0%;
+    width: 100%;
+    background-color: rgb(199, 204, 209);
+    color: black;
+    text-align: center;
+}    
+   .col-sm-12{
+    padding-top: 20px;}
+
+    .col-sm-12:hover {
+        -ms-transform: scale(1.05); /* IE 9 */
+        -webkit-transform: scale(1.05); /* Safari 3-8 */
+        transform: scale(1.05); 
+    }
+ 
+    
+    @media (max-width: 767px) {
+        .container {
+            width: 90%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+    }
+
+        
+    .carousel-inner img {
+            margin: auto;
+            width: 50%;
+            padding: 10px;
+    }
+        
+                
+    #carouselExampleIndicators{
+            margin: auto;
+            width: 100%;
+    }
+        
+    .carousel-control-next,
+    .carousel-control-prev /*, .carousel-indicators */ {
+            filter: invert(100%);
+        }
+
+        
+      
+    h1{
+        font-size: 30px;
+        text-align: center;
+        width: 100%;
+        font-family: 'Ibarra Real Nova', serif;
+        color:  rgb(67,137,165);
+    }
+p{font-size: 20px;
+}
+   
+      

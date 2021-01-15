@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 25px;
+  }
+  
+  .navbar-light .navbar-brand {
+      color: rgb(67, 137, 165);
+      font-family: 'Ibarra Real Nova', serif;
+      font-size: x-large;
+    }
+    .navbar-light .navbar-nav .nav-link { 
+      color: rgb(67,137,165);
+      font-family: 'Ibarra Real Nova', serif;
+      font-size: large;
+    }
+    .row{
+      margin-right: 0 !important;
+    }
+    .img{
+      padding-right: 20%;
+     max-width: 18%; 
+     margin-top: 208px;    
+     position: fixed; 
+     float: left;
+  }
+  .pl-3 {
+    padding-left: 3rem !important;
+  }
+
+  
+h1{color:  rgb(67,137,165);
+  text-align: center;
+  font-size: 200%;
+ 
+ 
+}
+h3{color: #000;
+font-size: 75%;}
+ 
+  
+    
