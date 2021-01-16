@@ -66,6 +66,8 @@ body{
     .pl-3 {
       padding-left: 3rem !important;
     }
+  .h6{text-align: justify;
+  }
     
  footer p{
         padding-top: 10px;
