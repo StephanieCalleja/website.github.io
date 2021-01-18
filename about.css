@@ -35,19 +35,22 @@ h2{padding-top: 5%;
 }
 p{text-align: justify;
   margin-top:50px;
+  margin-right:10% ;
+  
 }
  
 
 .align-items-center{
   align-items: unset !important;
- padding-right: 43px;
+ 
 }
 
 
     
 @media (max-width: 767px) {
   .align-items-center {
-    padding-right: 14px;
+    padding-right: 0px;
+
   }
 }
 
