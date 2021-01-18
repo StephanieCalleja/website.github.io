@@ -15,7 +15,11 @@ body {
         font-family: 'Ibarra Real Nova', serif;
         font-size: large;
     }
-.h1{font-size: 50px;}
+    h1{font-size: 82%;
+        padding-top: 2.5%;
+        
+    }
+       
     .footer {
         font-size: x-large;
         position: fixed;
@@ -92,17 +96,24 @@ body {
 
 
     h1{
-        font-size: 30px;
+        font-size: 50px;
         text-align: center;
         width: 100%;
         font-family: 'Ibarra Real Nova', serif;
         color:  rgb(67,137,165);
     }
 
-    p{
-        text-align: center;
+    p{text-align: justify;
+        
         font-size: 65%;
         margin-left: 10%;
         margin-right: 10%;
         width: 85%;
     }
+    
+    .footer > h6 { padding-top:10px; }
+
+    .spacer { margin-bottom: 80px;}
+
+p{font-size: 20px;
+}
