@@ -21,7 +21,18 @@ body{
   .pl-3 {
     padding-left: 3rem !important;
   }
-
+   
+  .footer {
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: x-large;
+    position: fixed;
+    left: 0;
+    bottom: 0%;
+    width: 100%;
+    background-color: rgb(199, 204, 209);
+    color: black;
+    text-align: center;
+}  
   
 h2{padding-top: 5%;
   color:  rgb(67,137,165);
