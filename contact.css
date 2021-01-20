@@ -60,18 +60,7 @@ font-size: 200%;}
     .form-control{
       border-radius: 1px;
     }
-  
-    #exampleFormControlTextarea1{
-      font-family: 'Ibarra Real Nova', serif;
-    }
-  
-    #exampleFormControlInput1{
-      font-family: 'Ibarra Real Nova', serif;
-    }
-  
-    #exampleFormControlTextarea2{
-      font-family:'Ibarra Real Nova', serif;
-    }
+
     
     .form-group{
       color: rgb(10, 17, 20);
@@ -89,12 +78,7 @@ font-size: 200%;}
       padding-left: 3rem !important;
     }
     
- footer p{
-        padding-top: 10px;
-        font-size: 15px;
-        line-height: 2px;
-        font-family: 'Ibarra Real Nova', serif;  
-          }
+
      
 @media (max-width: 767px) {
   .align-items-center {
