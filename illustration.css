@@ -1,20 +1,20 @@
-body {
+body{
     background-color: rgb(255, 255, 255);
     font-family: 'Ibarra Real Nova', serif;
     font-size: 25px;
-}
+    }
   
   
     .navbar-light .navbar-brand {
         color: rgb(67, 137, 165);
         font-family: 'Ibarra Real Nova', serif;
         font-size: x-large;
-    }
+      }
       .navbar-light .navbar-nav .nav-link { 
         color: rgb(67,137,165);
         font-family: 'Ibarra Real Nova', serif;
         font-size: large;
-    }
+      }
     h1{font-size: 82%;
         padding-top: 2.5%;
         
